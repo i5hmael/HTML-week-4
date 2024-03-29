@@ -1,0 +1,60 @@
+body{
+    background: linear-gradient(skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: cover;
+}
+header{
+    font-size: 30px;
+    text-align: center;
+    background-color: palegreen;
+    padding: 30px
+}
+h1{
+    font-size: 30px;
+    text-align: left;
+    background-color: palegreen;
+    padding: 10px;
+}
+
+h2{
+    font-size: 30px;
+    text-align: left;
+    background-color: palegreen;
+    padding: 10px
+}
+
+h3{
+    font-size: 30px;
+    text-align: left;
+    background-color: palegreen;
+    padding: 10px;
+}
+
+ul{
+    border-style: groove;  
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 30px;
+}
+p{
+    background-color: palegreen;
+    margin-left: auto;
+}
+.email{
+    border-style: groove;  
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
+.insta{
+    border-style: groove;  
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 20px;
+}
